@@ -1,0 +1,5 @@
+github:~/workspace/src/github.com
+utils:~/workspace/src/gitlab.com/denouche-projects/utils
+/home/denouche/workspace/src/github.com/*
+/home/denouche/workspace/src/gitlab.com/*
+
