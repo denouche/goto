@@ -5,7 +5,7 @@ touch ~/.gotorc
 goto()
 {
     local to="$(echo $1 | tr '[:upper:]' '[:lower:]')"
-    [ "$to" = "" ] && cd ~/workspace/ && return
+    [ "$to" = "" ] && cd ~ && return
 
     # first check if equality rule can be found
     local gotofound
